@@ -1,10 +1,4 @@
-# github-introduction
-Adapted from Corey Schafer's video: 
+# Github-Introduction
 
-<iframe width="560" 
-height="315" 
-src="https://www.youtube.com/embed/HVsySz-h9r4" 
-title="YouTube video player" 
-frameborder="0" 
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-</iframe>
+Adapted from Sir Corey Schafer's video link: [Git Tutorial for Beginners: Command-Line Fundamentals](https://youtu.be/HVsySz-h9r4)
+
